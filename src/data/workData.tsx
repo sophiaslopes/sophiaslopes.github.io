@@ -1,14 +1,19 @@
 export const workData = [
   {
-    company: "EPAM Anywhere",
-    link: "https://www.epam.com",
-    badges: ["Remote"],
-    title: "Senior Software Test Automation Engineer",
-    //logo: logos.ParabolLogo,
-    start: "Sep 2023",
-    end: "Present",
+    company: "Itaú Unibanco",
+    link:"",
+    badges:[],
+    title: "Estágio",
+    
+    start: "Jul 2022", 
+  
+    end: "Out 2023",
     description:
-      "Migrated legacy infrastructure and services, implemented new features and improved company core codebase in order to deliver security and performance to the whole company develepment business unit. Technologies: .Net, TypeScript, Cypress, AWS",
+      "- Fornecer análises aprofundadas e direcionamento personalizado para clientes em potencial.\n" +
+      "- Executar várias tarefas administrativas, incluindo gerenciamento de processos internos, organização de dados e suporte operacional.\n" +
+      "- Liderar negociações, demonstrando excelentes habilidades de negociação, finalizando contratos e garantindo conformidade e satisfação.\n" +
+      "- Monitoramento e gerenciamento de contratos para garantir que ambas as partes cumprissem suas obrigações contratuais.\n"+
+      "- Suporte estratégico e operacional à agência para melhoria de processos e relacionamento com clientes.",
   },
   {
     company: "ilegra Glbal",

@@ -5,7 +5,7 @@ import { skillsData } from './skillsData';
 import { projectsData } from './projectsData';
 
 export const resumeData = {
-  name: 'Gustavo Moraes',
+  name: 'Sophia Lopes',
   initials: 'GM',
   location: 'Goiânia-GO, Brazil, BRT',
   locationLink: 'https://www.google.com/maps/place/Goi%C3%A2nia',
