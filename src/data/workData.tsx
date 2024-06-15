@@ -11,7 +11,7 @@ export const workData = [
       "Migrated legacy infrastructure and services, implemented new features and improved company core codebase in order to deliver security and performance to the whole company develepment business unit. Technologies: .Net, TypeScript, Cypress, AWS",
   },
   {
-    company: "ilegra Global",
+    company: "ilegra Glbal",
     link: "https://www.ilegra.com/",
     badges: ["Remote"],
     title: "Senior .Net Developer",
