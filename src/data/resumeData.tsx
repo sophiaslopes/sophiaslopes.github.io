@@ -6,7 +6,7 @@ import { projectsData } from './projectsData';
 
 export const resumeData = {
   name: 'Sophia Lopes',
-  initials: 'GM',
+  initials: 'SL',
   location: 'Goiânia-GO, Brazil, BRT',
   locationLink: 'https://www.google.com/maps/place/Goi%C3%A2nia',
   about: "Not your regular 2024 spoiled snowflake, tech-stack, tutorial-based developer. I'm truly a highly motivated and enthusiastic Software/AQA Engineer in love with technology, delivery focused problem solver that's been into IT since childhood, college was really an experience and helped me expanding my view and knowing lots of different people and areas.",
@@ -16,8 +16,8 @@ export const resumeData = {
     - So, I do see me as a Senior Software Engineer, not tech-stack or framework limited, although my expertise is in .NET backend development and automation testing with a strong willingness to acquire deeper proficiency in diverse technologies and programming languages
     - Proven experience in automation, DevOps, and streamlining repetitive tasks through the implementation of automation solutions
     -As a quick learner, I always seek opportunities to further enhance technical skills and professional growth`,
-  avatarUrl: 'https://avatars.githubusercontent.com/u/23724033',
-  personalWebsiteUrl: 'https://gustavogmoraes.github.io',
+  avatarUrl: '',
+  personalWebsiteUrl: '',
   contact: contactData,
   education: educationData,
   work: workData,
