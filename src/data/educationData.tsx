@@ -1,9 +1,9 @@
 export const educationData = [
   {
-    school: "Federal University of Goiás",
+    school: "Estácio de Sá",
     degree:
-      "Bachelor's Degree in Information Systems, Computer Science and Software Engineering",
-    start: "2016",
-    end: "2021",
+      "Administração (5º período)",
+    start: "",
+    end: "",
   },
 ];

@@ -1,17 +1,17 @@
 import * as icons from "@/components/icons";
 
 export const contactData = {
-    email: "gustavog.moraes@outlook.com",
-    tel: "+5562996977961",
+    email: "slnunessantos@gmail.com",
+    tel: "5562999429958",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/gustavogmoraes",
+        url: "https://sophiaslopes.github.io/",
         icon: icons.GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/gustavogmoraes",
+        url: "https://www.linkedin.com/in/sophia-lopes-534156228/",
         icon: icons.LinkedInIcon,
       },
     ],

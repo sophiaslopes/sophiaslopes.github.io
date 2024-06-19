@@ -1,9 +1,9 @@
 export const skillsData = [
-    ".NET: 7+ years",
-    "C#",
-    "WebApi",
-    "SQL",
-    "NoSQL",
-    "Automation",
-    "Selenium",
+    "Pacote office",
+    "Power BI (iniciante)",
+    "SQL (iniciante)",
+    "Inglês (intermediário)",
+    "Comunicação",
+    "Proatividade",
+    
   ]

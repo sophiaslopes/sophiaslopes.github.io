@@ -1,85 +1,71 @@
-export const workData = [
-  {
-    company: "Itaú Unibanco",
-    link:"",
-    badges:[],
-    title: "Estágio",
-    
-    start: "Jul 2022", 
-  
-    end: "Out 2023",
-    description:
-      "- Fornecer análises aprofundadas e direcionamento personalizado para clientes em potencial.\n" +
-      "- Executar várias tarefas administrativas, incluindo gerenciamento de processos internos, organização de dados e suporte operacional.\n" +
-      "- Liderar negociações, demonstrando excelentes habilidades de negociação, finalizando contratos e garantindo conformidade e satisfação.\n" +
-      "- Monitoramento e gerenciamento de contratos para garantir que ambas as partes cumprissem suas obrigações contratuais.\n"+
-      "- Suporte estratégico e operacional à agência para melhoria de processos e relacionamento com clientes.",
-  },
-  {
-    company: "ilegra Glbal",
-    link: "https://www.ilegra.com/",
-    badges: ["Remote"],
-    title: "Senior .Net Developer",
-    //logo: logos.ParabolLogo,
-    start: "Oct 2023",
-    end: "Jan 2024",
-    description:
-      "Migrated legacy infrastructure and services, implemented new features and improved company core codebase in order to deliver security and performance to the whole company develepment business unit. Technologies: .Net, TypeScript, Cypress, AWS",
-  },
-  {
-    company: "TEAM International",
-    link: "https://www.teaminternational.com/",
-    badges: ["Remote"],
-    title: "Senior .Net Developer",
-    //logo: logos.ParabolLogo,
-    start: "Jul 2022",
-    end: "Oct 2023",
-    description:
-      "- .Net developer to a vending/payment company, worked with bug fixing, feature development and code review in a SCRUM team.\n" +
-      "\tTechnologies: .Net Core, SQLServer, RabitMQ, NUnit",
-  },
-  {
-    company: "BairesDev",
-    link: "https://www.bairesdev.com/",
-    badges: ["Remote"],
-    title:
-      "QA Automation Engineer → Senior .NET Developer → QA Automation/.Net Engineer",
-    //logo: logos.ClevertechLogo,
-    start: "Jun 2021",
-    end: "Mar 2023",
-    description:
-      "- Acting as QA Automation Engineer for an Android/iOS medical app, mainly focused in UI and Integration Testing.\n" +
-      "\tTechnologies: Java, TestNG, Selenium, Android UIAutomator, iOS XCUITest\n" +
-      "- .Net backend development and some UI on MVC and React to a freight company, worked with bug fixing, feature development and code review in a SCRUM team.\n" +
-      "\tTechnologies: Asp .Net, Telerik, KendoUI, React, NUnit"
-  }, 
-  {
-    company: "Actminds Inc.",
-    link: "https://actminds.com/",
-    badges: ["Remote", "1st Contractor Job"],
-    title: "Software Developer",
-    //logo: logos.JojoMobileLogo,
-    start: "Dec 2020",
-    end: "May 2021",
-    description:
-      "- Worked as a Full Stack developer on custom dev projects for various clients in the U.S, primarily focusing on time clock punching software and custom web reports for construction companies \n" +
-      "\tTechnologies: Asp .Net, C#, SQLServer, XSLT, C# Script(CSX)\n",
-  },
-  {
-    company: "LG lugar de gente",
-    link: "https://www.lg.com.br/",
-    badges: [
-      "Career Growth"
-    ],
-    title: "Software Development Intern → Jr. → Mid .Net Software Developer",
-    //logo: logos.NSNLogo,
-    start: "Mar 2017",
-    end: "Dec 2020",
-    description: "- Worked with auxiliary modules to the payroll calculation main product, learned a lot on programming, AGILE, Scrum and service development for Windows. \n" + 
-    "\tTechnologies: VB6, VB.Net, C#, SQLServer, Oracle\n" +
-    "- Because of my ease to learn and flexibility, ended up in the main company’s payroll software and in large back-end projects with strong business rules in human resources, processing and serialization of data to be sent to the government (a country-size project known in Brazil as e-Social).\n" +
-    "\tTechnologies: .Net, Windows Forms, SQLServer,  Xml Serialization, SOAP \n" +
-    "- Later migrated to company's new cloud product, focused on positions, salaries and accounting, where I worked as a full stack developer.\n" + 
-    "\tTechnologies: ASP.Net MVC, Razor, Telerik, jQuery",
-  },
-];
+export const workData =
+  [
+    {
+      company: "Maia e Borba (Araguaia Shopping)",
+      link: "",
+      badges: [],
+      title: "Estágio",
+
+      start: "Nov 2023",
+
+      end: "Jun 2024",
+      description:
+        "- Auxiliar nas rotinas administrativas, garantindo a eficiência dos processos internos.\n" +
+        "- Coletar informações essenciais para suportar decisões estratégicas e operacionais.\n" +
+        "- Auxiliar na realização de auditorias nas lojas do shopping, assegurando conformidade e identificando oportunidades de melhoria.\n" +
+        "- Desenvolver relatórios quantitativos e qualitativos, fornecendo insights valiosos através da análise de dados.\n" +
+        "- Coletar e analisar dados de vendas e pós-venda, contribuindo para a otimização das estratégias comerciais.\n",
+    },
+    {
+      company: "Itaú Unibanco",
+      link: "",
+      badges: [],
+      title: "Estágio",
+
+      start: "Jul 2022",
+
+      end: "Out 2023",
+      description:
+        "- Fornecer análises aprofundadas e direcionamento personalizado para clientes em potencial.\n" +
+        "- Executar várias tarefas administrativas, incluindo gerenciamento de processos internos, organização de dados e suporte operacional.\n" +
+        "- Liderar negociações, demonstrando excelentes habilidades de negociação, finalizando contratos e garantindo conformidade e satisfação.\n" +
+        "- Monitoramento e gerenciamento de contratos para garantir que ambas as partes cumprissem suas obrigações contratuais.\n" +
+        "- Suporte estratégico e operacional à agência para melhoria de processos e relacionamento com clientes.",
+    },
+    {
+      "company": "Imobiliária Desenrola",
+      "link": "",
+      "badges": [],
+      "title": "Atendente de SAC",
+      "start": "Feb 2022",
+      "end": "Jul 2022",
+      "description":
+        "- Estabelecer vínculos interpessoais ao atender clientes em situações presenciais, via telefone e através do aplicativo WhatsApp.\n" +
+        "- Monitorar e gerenciar de forma integral todo o ciclo de interações com os clientes.\n" +
+        "- Fornecer informações pertinentes sobre locações tanto para inquilinos quanto para proprietários.\n"
+    },
+    {
+      "company": "Solution Credit",
+      "link": "",
+      "badges": [],
+      "title": "Estagiária",
+      "start": "Feb 2021",
+      "end": "Feb 2022",
+      "description":
+        "- Execução de operações de venda em consignação.\n" +
+        "- Auxiliar no atendimento ao cliente, presencial e por telefone, concluir contratos, organizar documentos e protocolos.\n"
+    },
+    {
+      "company": "Shopping Cidade Jardim",
+      "link": "",
+      "badges": [],
+      "title": "Estagiária",
+      "start": "Jan 2017",
+      "end": "Dec 2017",
+      "description":
+        "- Realização de contagens de fluxo por meio de sistemas.\n" +
+        "- Análise meticulosa do movimento de estabelecimentos comerciais.\n" +
+        "- Desempenho de funções de atendimento ao cliente e elaboração de análises tabulares de dados.\n"
+    }
+
+  ];
