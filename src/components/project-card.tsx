@@ -37,7 +37,7 @@ export function ProjectCard({ title, description, tags, link }: Props) {
             {link?.replace("https://", "").replace("www.", "").replace("/", "")}
           </div>
           <CardDescription className="font-mono text-xs">
-            {description}
+            <div dangerouslySetInnerHTML={{ __html: description }} />
           </CardDescription>
         </div>
       </CardHeader>
