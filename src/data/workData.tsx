@@ -6,7 +6,7 @@ export const workData =
       badges: [],
       title: "Estágio",
 
-      start: "Nov 2023",
+      start: "Nov ",
 
       end: "Jun 2024",
       description:
