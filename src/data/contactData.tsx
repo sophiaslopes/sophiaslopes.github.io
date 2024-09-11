@@ -1,7 +1,7 @@
 import * as icons from "@/components/icons";
 
 export const contactData = {
-    email: "slnunessantos@gmail.com",
+    email: "sophia.slopes@outlook.com",
     tel: "5562999429958",
     social: [
       {

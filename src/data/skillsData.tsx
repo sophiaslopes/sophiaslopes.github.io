@@ -1,8 +1,8 @@
 export const skillsData = [
     "Pacote office",
-    "Power BI (iniciante)",
-    "SQL (iniciante)",
-    "Inglês (intermediário)",
+    "Power BI",
+    "SQL",
+    "Inglês",
     "Comunicação",
     "Proatividade",
     

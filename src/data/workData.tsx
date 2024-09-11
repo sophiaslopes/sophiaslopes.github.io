@@ -1,12 +1,28 @@
 export const workData =
   [
     {
+      company: "Serviço Nacional de Aprendizagem Industrial (SENAI)",
+      link: "",
+      badges: [],
+      title: "Estágio em Inteligência de Mercado e Análise de Dados",
+
+      start: "Jul 2024 ",
+
+      end: "ATUAL",
+      description:
+        "- Levantamento e Análise de Dados: Apoiar na coleta e análise de dados relacionados ao comportamento de produtos e serviços da empresa.\n" +
+        "- Gestão de Dados e Relatórios: Desenvolvimento de planilhas avançadas em Excel com uso da ferramenta SQL para estruturar dados de vendas e relacionamento comercial, contribuindo para decisões estratégicas\n" +
+        "- Suporte ao CRM: Apoio na manutenção e atualização de bases de dados no sistema CRM, garantindo a precisão e relevância dos dados para ações de marketing e vendas.\n" +
+        "- Elaboração de Estratégias de Mercado: Criação de apresentações visuais e relatórios analíticos para a divulgação de resultados e estratégias na área comercial.\n",
+        
+      },
+    {
       company: "Maia e Borba (Araguaia Shopping)",
       link: "",
       badges: [],
-      title: "Estágio",
+      title: "Estágio em Análise de Dados",
 
-      start: "Nov "
+      start: "Nov ",
 
       end: "Jun 2024",
       description:
@@ -32,34 +48,12 @@ export const workData =
         "- Monitoramento e gerenciamento de contratos para garantir que ambas as partes cumprissem suas obrigações contratuais.\n" +
         "- Suporte estratégico e operacional à agência para melhoria de processos e relacionamento com clientes.",
     },
-    {
-      "company": "Imobiliária Desenrola",
-      "link": "",
-      "badges": [],
-      "title": "Atendente de SAC",
-      "start": "Feb 2022",
-      "end": "Jul 2022",
-      "description":
-        "- Estabelecer vínculos interpessoais ao atender clientes em situações presenciais, via telefone e através do aplicativo WhatsApp.\n" +
-        "- Monitorar e gerenciar de forma integral todo o ciclo de interações com os clientes.\n" +
-        "- Fornecer informações pertinentes sobre locações tanto para inquilinos quanto para proprietários.\n"
-    },
-    {
-      "company": "Solution Credit",
-      "link": "",
-      "badges": [],
-      "title": "Estagiária",
-      "start": "Feb 2021",
-      "end": "Feb 2022",
-      "description":
-        "- Execução de operações de venda em consignação.\n" +
-        "- Auxiliar no atendimento ao cliente, presencial e por telefone, concluir contratos, organizar documentos e protocolos.\n"
-    },
+       
     {
       "company": "Shopping Cidade Jardim",
       "link": "",
       "badges": [],
-      "title": "Estagiária",
+      "title": "Estágio",
       "start": "Jan 2017",
       "end": "Dec 2017",
       "description":
