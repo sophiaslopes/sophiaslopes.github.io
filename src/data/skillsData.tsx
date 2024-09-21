@@ -3,7 +3,12 @@ export const skillsData = [
     "Power BI",
     "SQL",
     "Inglês",
-    "Comunicação",
     "Proatividade",
-    
+    "Análise de Dados",
+    "Inteligência de Mercado",
+    "CRM",
+    "Negociação",
+    "Comunicação Interpessoal",
+    "Automação de Processos",
+    "Python"
   ]

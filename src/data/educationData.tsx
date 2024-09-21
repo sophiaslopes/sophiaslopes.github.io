@@ -1,15 +1,15 @@
-export const educationData = [
+export const Educação = [
   {
     school: "Estácio de Sá",
     degree:
-      "Administração (cursando)",
+      "Administração",
     start: "",
     end: "",
   },
   {
     school: "Estácio de Sá",
     degree:
-      "Análise e Desenvolvimento de Sistemas (cursando)",
+      "Análise e Desenvolvimento de Sistemas",
     start: "",
     end: "",
   },
