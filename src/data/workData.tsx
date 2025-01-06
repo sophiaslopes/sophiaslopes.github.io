@@ -8,7 +8,7 @@ export const workData =
 
       start: "Jul 2024 ",
 
-      end: "Atual",
+      end: "Dez 2024",
       description:
         "- Levantamento e Análise de Dados: Apoiar na coleta e análise de dados relacionados ao comportamento de produtos e serviços da empresa.\n" +
         "- Gestão de Dados e Relatórios: Desenvolvimento de planilhas avançadas em Excel com uso da ferramenta SQL para estruturar dados de vendas e relacionamento comercial, contribuindo para decisões estratégicas.\n" +
